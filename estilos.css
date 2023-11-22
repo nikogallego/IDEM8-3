@@ -6,46 +6,58 @@
     
     }
     
+.fondobio{
+
+    background-image: url("fondo.biologia.jpg");
+    
+    background-repeat: no-repeat;
+}
     
     
-    
-    .fondotecno{
-    
-    background-image: url("fondo2.jpg");
-    
-    background-repeat: repeat;
-    
-    }
     body{
     
-        background-image: url("");
-        
-        background-repeat: repeat;
-        
-        }
+    background-image: url("fondo.jpg");
     
-    
-    .img{
-    
-    position: relative;
-    
-     
-    
-    width: 190px;
-    
-    height: 190px;
-    
-    border-radius: 10px;
-    
-    background-repeat: repeat;
-    
-     
-    
-    left: 180px;
-    
-    background-image: url("");
+    background-repeat: no-repeat;
     
     }
+    .fondoreli{
+        background-image: url("fondo16.jpg");
+    
+        background-repeat: no-repeat;
+        
+
+    }
+
+    .fondosoci{
+        background-image: url("sociales.123.jpg");
+        
+        background-repeat: no-repeat;
+
+    
+    }
+    
+    .fondomate{
+        background-image: url("fondomate.webp");
+    
+        background-repeat: no-repeat;
+
+    }
+    
+    .fondoingles{
+        background-image: url("fondo.ingles.jpg");
+    
+        background-repeat: no-repeat;
+    }
+    
+        
+     .fondotecno{
+        background-image: url("fondotecno.jpg");
+    
+        background-repeat: no-repeat;
+    }
+    
+    
     
     .contenedor{
     
@@ -57,18 +69,19 @@
     
     }
     
-    .texto{
+    .textosociales{
     
-    
-    font-size: 40px;
+    font-size: 25px;
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(34, 27, 27);
     
      
     
     }
+    
+
     .contenido{
 
         height: 280px;
@@ -89,9 +102,9 @@
         
          
         
-        background-repeat: repeat;
+        background-repeat: no-repeat;
         
-        float:center;
+        float:left;
         
         height: 200px;
         
@@ -101,567 +114,50 @@
         
         margin-right:5px;
         
-        background-image: url("fondo2.jpg");
-
+        background-image: url("medellin.jpeg");
         
         }
         
         
         
-        .textotecno{
+        .textobiologia{
         
-        text-align:center;
+        text-align: justify;
         
-        color: rgb(29, 24, 21);
+        color: rgb(250, 198, 198);
         
         font-size: 40px;
+    }
+    .textomatematicas{
         
+        text-align: justify;
         
+        color: rgb(15, 15, 15);
         
-        }
-
-        .fondosocia{
-    
-            background-image: url("fondo2.jpg");
-            
-            background-repeat: no-repeat;
-            
-            }
-            body{
-            
-                background-image: url("fondo2.jpg");
-                
-                background-repeat: no-repeat;
-                
-                }
-            
-            
-            .img{
-            
-            position: relative;
-            
-             
-            
-            width: 190px;
-            
-            height: 190px;
-            
-            border-radius: 10px;
-            
-            background-repeat: no-repeat;
-            
-             
-            
-            left: 180px;
-            
-            background-image: url("");
-            
-            }
-            
-            .contenedor{
-            
-             
-            
-            height: 230px;
-            
-             
-            
-            }
-            
-            .texto{
-            
-            
-            font-size: 40px;
-            
-            text-align: justify;
-            
-            color: brown;
-            
-             
-            
-            }
-
-        .contenido{
-
-            height: 280px;
-            
-            width: 101%;
-            
-            position: absolute;
-            
-            top: 410px;
-            
-             
-            
-            }
-            
-             
-            
-            .imagensocia{
-            
-             
-            
-            background-repeat: no-repeat;
-            
-            float:center;
-            
-            height: 189px;
-            
-            width: 1243px;
-            
-            margin-left: 5px;
-            
-            margin-right:5px;
-            
-            background-image: url("Infografía\ destinos\ encantadores\ en\ Colombia\ turismo\ colorido.pdf");
-
+        font-size: 35px;
+    }
+    .textoingles{
         
-            
-            }
-            
-            
-            
-            .textosocia{
-            
-            text-align: right;
-            
-            color: azure;
-            
-            font-size: 20px;
-            
-            
-            
-            }
-
-            .fondomatema{
-    
-                background-image: url("fondo2.jpg");
-                
-                background-repeat: repeat;
-                
-                }
-                body{
-                
-                    background-image: url("fondo2.jpg");
-                    
-                    background-repeat: repeat;
-                    
-                    }
-                
-                
-                .img{
-                
-                position: relative;
-                
-                 
-                
-                width: 190px;
-                
-                height: 190px;
-                
-                border-radius: 10px;
-                
-                background-repeat: no-repeat;
-                
-                 
-                
-                left: 180px;
-                
-                background-image: url("");
-                
-                }
-                
-                .contenedor{
-                
-                 
-                
-                height: 230px;
-                
-                 
-                
-                }
-                
-                .texto{
-                
-                
-                font-size: 40px;
-                
-                text-align: justify;
-                
-                color: brown;
-                
-                 
-                
-                }
-
-            .contenido{
-
-                height: 280px;
-                
-                width: 100%;
-                
-                position: absolute;
-                
-                top: 410px;
-                
-                 
-                
-                }
-                
-                 
+        text-align: justify;
         
-                
-            
-                
-                
-                
-                .textomatema{
-                
-                text-align: justify;
-                
-                color: azure;
-                
-                font-size: 30px;
-                
-                
-                
-                }
+        color: rgb(250, 198, 198);
+        
+        font-size: 30px;
+    }
+    .textoreligion{
+        
+        text-align: justify;
+        
+        color: rgb(15, 15, 15);
+        
+        font-size: 28px;
+    }
+    .textotecno{
 
-                .fondoingl{
-    
-                    background-image: url("fondo2.jpg");
-                    
-                    background-repeat: repeat;
-                    
-                    }
-                    body{
-                    
-                        background-image: url("fondo2.jpg");
-                        
-                        background-repeat: repeat;
-                        
-                        }
-                    
-                    
-                    .img{
-                    
-                    position: relative;
-                    
-                     
-                    
-                    width: 190px;
-                    
-                    height: 190px;
-                    
-                    border-radius: 10px;
-                    
-                    background-repeat: no-repeat;
-                    
-                     
-                    
-                    left: 180px;
-                    
-                    background-image: url("");
-                    
-                    }
-                    
-                    .contenedor{
-                    
-                     
-                    
-                    height: 230px;
-                    
-                     
-                    
-                    }
-                    
-                    .texto{
-                    
-                    
-                    font-size: 40px;
-                    
-                    text-align: justify;
-                    
-                    color: brown;
-                    
-                     
-                    
-                    }
+        text-align: justify;
 
-                .contenido{
+        color: black;
 
-                    height: 280px;
-                    
-                    width: 100%;
-                    
-                    position: absolute;
-                    
-                    top: 410px;
-                    
-                     
-                    
-                    }
-                    
-                     
-                    
-                    .imageningl{
-                    
-                     
-                    
-                    background-repeat: no-repeat;
-                    
-                    float:left;
-                    
-                    height: 200px;
-                    
-                    width: 260px;
-                    
-                    margin-left: 5px;
-                    
-                    margin-right:5px;
-                    
-                    background-image: url("");
-                    
-                    }
-                    
-                    
-                    
-                    .textoingl{
-                    
-                    text-align: justify;
-                    
-                    color: azure;
-                    
-                    font-size: 20px;
-                    
-                    
-                    
-                    }
-
-                    .fondoreligi{
-    
-                        background-image: url("fondo2.jpg");
-                        
-                        background-repeat: repeat;
-                        
-                        }
-                        body{
-                        
-                            background-image: url("fondo2.jpg");
-                            
-                            background-repeat: repeat;
-                            
-                            }
-                        
-                        
-                        .img{
-                        
-                        position: relative;
-                        
-                         
-                        
-                        width: 190px;
-                        
-                        height: 190px;
-                        
-                        border-radius: 10px;
-                        
-                        background-repeat: no-repeat;
-                        
-                         
-                        
-                        left: 180px;
-                        
-                        background-image: url("");
-                        
-                        }
-                        
-                        .contenedor{
-                        
-                         
-                        
-                        height: 230px;
-                        
-                         
-                        
-                        }
-                        
-                        .texto{
-                        
-                        
-                        font-size: 40px;
-                        
-                        text-align: justify;
-                        
-                        color: brown;
-                        
-                         
-                        
-                        }
-
-                    .contenido{
-
-                        height: 280px;
-                        
-                        width: 100%;
-                        
-                        position: absolute;
-                        
-                        top: 410px;
-                        
-                         
-                        
-                        }
-                        
-                         
-                        
-                        .imagenreligi{
-                        
-                         
-                        
-                        background-repeat: no-repeat;
-                        
-                        float:left;
-                        
-                        height: 200px;
-                        
-                        width: 260px;
-                        
-                        margin-left: 5px;
-                        
-                        margin-right:5px;
-                        
-                        background-image: url("");
-                        
-                        }
-                        
-                        
-                        
-                        .textoreligi{
-                        
-                        text-align: justify;
-                        
-                        color: azure;
-                        
-                        font-size: 20px;
-                        
-                        
-                        
-                        }
-
-                        .fondobiolo{
-    
-                            background-image: url("fondo2.jpg");
-                            
-                            background-repeat: repeat;
-                            
-                            }
-                            body{
-                            
-                                background-image: url("fondo2.jpg");
-                                
-                                background-repeat: no-repeat;
-                                
-                                }
-                            
-                            
-                            .img{
-                            
-                            position: relative;
-                            
-                             
-                            
-                            width: 190px;
-                            
-                            height: 190px;
-                            
-                            border-radius: 10px;
-                            
-                            background-repeat: no-repeat;
-                            
-                             
-                            
-                            left: 180px;
-                            
-                            background-image: url("");
-                            
-                            }
-                            
-                            .contenedor{
-                            
-                             
-                            
-                            height: 230px;
-                            
-                             
-                            
-                            }
-                            
-                            .texto{
-                            
-                            
-                            font-size: 40px;
-                            
-                            text-align: justify;
-                            
-                            color: brown;
-                            
-                             
-                            
-                            }
-
-                        .contenido{
-
-                            height: 280px;
-                            
-                            width: 100%;
-                            
-                            position: absolute;
-                            
-                            top: 410px;
-                            
-                             
-                            
-                            }
-                            
-                             
-                            
-                            .imagenbiolo{
-                            
-                             
-                            
-                            background-repeat: no-repeat;
-                            
-                            float:left;
-                            
-                            height: 200px;
-                            
-                            width: 260px;
-                            
-                            margin-left: 5px;
-                            
-                            margin-right:5px;
-                            
-                            background-image: url("");
-                            
-                            }
-                            
-                            
-                            
-                            .textobiolo{
-                            
-                            text-align: justify;
-                            
-                            color: azure;
-                            
-                            font-size: 30px;
-                            
-                            
-                            
-                            }
-                            
-                        .titulo{
-                            text-align: center;
-                            font-size: 30px;
-                            font-family: Verdana, Geneva, Tahoma, sans-serif;
-                        }
+        font-size: 28px;
+    }
+        
